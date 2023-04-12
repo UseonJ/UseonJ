@@ -12,10 +12,10 @@
 
 <h4>Language</h4>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forhrever&theme=radical&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UseonJ&theme=radical&hide=jupyter%20notebook)
 
 <h4>Github Status</h4>
 
-![forhrever's github stats](https://github-readme-stats.vercel.app/api?username=forhrever&show_icons=true)
+![forhrever's github stats](https://github-readme-stats.vercel.app/api?username=UseonJ&show_icons=true)
 
 </div>
