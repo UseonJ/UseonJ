@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&section=header&text=forhrever&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#a367dc&height=250&section=header&text=Aron&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 <h4>My Tech Spec</h4>
